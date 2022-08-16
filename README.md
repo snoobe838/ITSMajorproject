@@ -1,1 +1,1 @@
-# project_7_minor_churn_modelling
+# MAJOR PROJECT on Depression & Anxiety
